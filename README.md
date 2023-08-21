@@ -2,7 +2,7 @@
 
 ## Description ✏️
 
-After teaching, I decided to make a career change to web development! As a teacher, I taught middle school introductory computer coding, computer graphic arts, science, and TV Broadcasting.  Also, I taught most subjects in 6th grade.  I did some project management and was trusted to make important decisions. I earned certification in Full Stack Web Development.  Also, I am a volunteer hiking guide, research genealogy in my free time, and have my own genealogy-connected YouTube Channel. https://www.youtube.com/channel/UCMNe2clJI6nf-rmXoVg01xw  If you are looking for a remote front-end web developer, then I could be the right fit for you and your company!  I am on Linkedin as well: www.linkedin.com/in/chel-freitas-web-developer
+After teaching, I decided to make a career change to web development! As a teacher, I taught middle school introductory computer coding, computer graphic arts, science, and TV Broadcasting.  Also, I taught most subjects in 6th grade.  I did some project management and was trusted to make important decisions. I earned certification in Full Stack Web Development.  Also, I am a volunteer hiking guide, research genealogy in my free time, and have my own genealogy-connected YouTube Channel.  If you are looking for a remote front-end web developer, then I could be the right fit for you and your company!  I am on Linkedin as well: www.linkedin.com/in/chel-freitas-web-developer
 
 :flight_arrival:  Azores Travel & Genealogy YouTube Channel: ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 :film_projector: :yt: https://www.youtube.com/channel/UCMNe2clJI6nf-rmXoVg01xw
